@@ -3,4 +3,5 @@ node_modules
 package-lock.json
 package.json
 redis-6.0.10
+src
 redis-6.0.10.tar.gz
